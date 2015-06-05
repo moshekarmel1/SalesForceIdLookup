@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "SalesForce Id Lookup",
+  "description": "This extension will Take a SalesForce Id and open up the actual record in SalesForce",
+  "version": "1.1",
+ 
+  "browser_action": {
+   "default_icon": "icon.png",
+   "default_popup": "popup.html"
+  },
+  "permissions": [
+   ]
+}
